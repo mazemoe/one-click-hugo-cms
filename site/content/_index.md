@@ -1,5 +1,5 @@
 ---
-title: 欢迎来到椰奶猫猫的博客！
+title: Blogs
 subtitle: 仙人抚我顶，结发受长生。
 image: img/icons-instagram.svg
 blurb:
